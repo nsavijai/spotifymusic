@@ -305,7 +305,7 @@ This project is licensed under the MIT License.
 
 **Vijai N S A**
 
-- GitHub: https://github.com/VijaiCoder
+- GitHub: https://github.com/nsavijai
 - LinkedIn: https://www.linkedin.com/in/vijai-nsa-753b05260
 
 ---
