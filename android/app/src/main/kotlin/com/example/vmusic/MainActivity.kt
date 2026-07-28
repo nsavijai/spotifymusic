@@ -1,4 +1,4 @@
-package com.example.vmusic
+package com.vmusic.app
 
 import io.flutter.embedding.android.FlutterActivity
 
