@@ -163,38 +163,6 @@ Home
 
 ---
 
-# 🎵 Music Flow
-
-```
-Flutter
-
-      │
-
-      ▼
-
-FastAPI
-
-      │
-
-      ▼
-
-Music Provider
-
-      │
-
-      ▼
-
-Audio Stream
-
-      │
-
-      ▼
-
-just_audio Player
-```
-
----
-
 # 🚀 Getting Started
 
 ## Clone Repository
